@@ -83,10 +83,10 @@ author:
   name             : "Shuo Xu"
   avatar           : "WechatIMG14.jpeg"
   bio              : "Graduate student at Departmenty of Astronomy, Tsinghua University"
-  location         : "Location"
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
