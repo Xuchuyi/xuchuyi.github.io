@@ -8,4 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is a placeholder
+I am Shuo Xu, a graudate student in the Department of Astronomy at Tsinghua University. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My email address is 
