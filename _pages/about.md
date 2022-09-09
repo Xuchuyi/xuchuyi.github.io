@@ -14,7 +14,7 @@ I'm interested in many topics of astronomy and astrophysics, such as galaxy-halo
 I'm also have some interest in dark matter model and dark matter detection, such as axion and ALP detection.
 
 
-I'm currently working on the simulation data from Illustris and IllustrisTNG simulation. I am testing the performance of different halo mass proxy in the simulation date with different resolution or physical recipe. 
+I'm currently working on the simulation data from Illustris and IllustrisTNG simulation. I am testing the performance of different halo mass proxy in the simulation date with different resolution or physical recipe and making a comparison with observation. 
 
 
 
@@ -22,4 +22,4 @@ I'm currently working on the simulation data from Illustris and IllustrisTNG sim
 
 
 
-You can  xus21@mails.tsinghua.edu.cn
+You can reach me at xus21@mails.tsinghua.edu.cn.
