@@ -16,15 +16,15 @@ Tsinghua University
 Beijing, China
 
 
-Education
+## Education
 ======
-School of Physics, Sun Yat-sen University, Bachlor, 2017-2021
-Department of Astronomy, Tsinghua University, PhD student, 2021-
+* School of Physics, Sun Yat-sen University, Bachlor, 2017-2021
+* Department of Astronomy, Tsinghua University, PhD student, 2021-
   
-Skills
+## Skills
 ======
 * 
-* Mathematica Programming
+* Programming: Python, Mathermatica
 
 Publications
 ======
