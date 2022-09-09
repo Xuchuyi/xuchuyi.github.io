@@ -17,8 +17,8 @@ redirect_from:
 
 ## <span style="color:brown">Education</span>
 -----------------------------------------
-* B.S, Physics, School of Physics, Sun Yat-sen University, 2017-2021
-* Graduate study, Astronomy, Department of Astronomy, Tsinghua University, 2021-
+* B.S. in Physics, School of Physics, Sun Yat-sen University, 2017-2021
+* Graduate study in Astronomy, Department of Astronomy, Tsinghua University, 2021-
   
 ## <span style="color:brown">Skills</span>
 ----------------------------------------
