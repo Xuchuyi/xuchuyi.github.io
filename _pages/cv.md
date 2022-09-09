@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Shuo Xu"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Shuo Xu
+
 -----------------------------------
 * Graduate student in Astronomy, Department of Astronomy, Tsinghua University, Beijing, China
 * Email: xus21[at]mails.tsinghua.edu.cn
