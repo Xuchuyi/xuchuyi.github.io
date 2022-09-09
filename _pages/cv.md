@@ -15,12 +15,12 @@ redirect_from:
 * Orcid: 0000-0002-4460-0409
 
 
-## <span style="color:deepblue">Education</span>
+## <span style="color:brown">Education</span>
 -----------------------------------------
 * B.S, Physics, School of Physics, Sun Yat-sen University, 2017-2021
 * Graduate study, Astronomy, Department of Astronomy, Tsinghua University, 2021-
   
-## <span style="color:deepblue">Skills</span>
+## <span style="color:brown">Skills</span>
 ----------------------------------------
 * Programming: Python, Mathermatica
 
