@@ -8,21 +8,23 @@ redirect_from:
 ---
 
 {% include base_path %}
+# Shuo Xu
+
+Graduate student
+Department of Astronomy
+Tsinghua University
+Beijing, China
+
 
 Education
 ======
-* B.S. in School of Physics, Sun Yat-sen University, 2021
-* Ph.D student now in Department of Astronomy, Tsinghua University.
-
+School of Physics, Sun Yat-sen University, Bachlor, 2017-2021
+Department of Astronomy, Tsinghua University, PhD student, 2021-
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 
+* Mathematica Programming
 
 Publications
 ======
