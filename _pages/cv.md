@@ -18,12 +18,12 @@ redirect_from:
 * Orcid: 0000-0002-4460-0409
 
 
-## <font color=gold>Education</font>
+## <span style="color:blue">Education</span>
 -----------------------------------------
 * School of Physics, Sun Yat-sen University, Bachlor, 2017-2021
 * Department of Astronomy, Tsinghua University, PhD student, 2021-
   
-## <font color=gold>Skills</font>
+## <span style="color:blue">Skills</span>
 ----------------------------------------
 * Programming: Python, Mathermatica
 
