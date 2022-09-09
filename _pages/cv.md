@@ -17,12 +17,12 @@ Beijing, China
 
 
 ## Education
-======
+
 * School of Physics, Sun Yat-sen University, Bachlor, 2017-2021
 * Department of Astronomy, Tsinghua University, PhD student, 2021-
   
 ## Skills
-======
+
 * 
 * Programming: Python, Mathermatica
 
