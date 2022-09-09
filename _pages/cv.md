@@ -22,7 +22,7 @@ redirect_from:
   
 ## <span style="color:brown">Skills</span>
 ----------------------------------------
-* Programming: Python, Mathermatica
+* Programming: Python, Mathematica
 
  
   
