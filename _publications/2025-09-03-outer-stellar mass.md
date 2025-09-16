@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 2025-09-03
 venue: 'ApJ'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/adeca0/pdf'
-citation: 'Shuo Xu et al 2025 ApJ 990 127'
+citation: 'Xu et al 2025 ApJ 990 127'
 ---
 
 
