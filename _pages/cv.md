@@ -23,6 +23,7 @@ redirect_from:
 ## <span style="color:brown">Skills</span>
 ----------------------------------------
 * Programming: Python, Mathematica
+* Astronomy Tools: Galaxy photometry, Galaxy-galaxy lensing, Simulation data analysis
 
  
   
